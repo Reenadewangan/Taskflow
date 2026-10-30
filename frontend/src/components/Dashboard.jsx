@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import api from "../api/axios";
 
 import ProjectList from "./ProjectList";
-import CreateProject from "./CreateProject";
+import CreateProject from "./createproject";
 import EditProject from "./EditProject";
 import KanbanBoard from "./KanbanBoard";
 import CreateTask from "./createtask";
